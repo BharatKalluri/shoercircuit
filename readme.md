@@ -1,5 +1,7 @@
 # Short Circuit
 
+> Archived, please use [Boop GTK](https://github.com/zoeyfyi/Boop-GTK) instead
+
 <img src="./data/icons/in.bharatkalluri.shortcircuit.svg" width="128px" height="128px" />
 
 <p>A developer scratchpad built for GNOME.</p>
